@@ -1,0 +1,21 @@
+campaign_id,campaign_name,channel,start_date,budget
+M000,Campaign 1,Paid Search,2024-12-12,5899.96
+M001,Campaign 2,Email,2024-12-07,11910.16
+M002,Campaign 3,Paid Search,2024-08-28,14590.47
+M003,Campaign 4,Email,2025-03-04,15020.78
+M004,Campaign 5,Email,2025-12-10,3523.07
+M005,Campaign 6,Email,2024-11-14,24178.94
+M006,Campaign 7,Paid Search,2024-11-14,2950.29
+M007,Campaign 8,Social,2025-04-05,19418.3
+M008,Campaign 9,Social,2024-09-12,6505.26
+M009,Campaign 10,Social,2024-11-21,18511.1
+M010,Campaign 11,Social,2024-08-27,4154.4
+M011,Campaign 12,Referral,2025-10-16,20173.15
+M012,Campaign 13,Referral,2025-01-15,4792.82
+M013,Campaign 14,Social,2025-03-12,22172.7
+M014,Campaign 15,Paid Search,2024-07-02,21008.75
+M015,Campaign 16,Paid Search,2024-11-28,15871.21
+M016,Campaign 17,Email,2025-02-02,18769.45
+M017,Campaign 18,Email,2024-08-22,21658.33
+M018,Campaign 19,Email,2026-02-21,12364.55
+M019,Campaign 20,Social,2025-05-25,10361.14
